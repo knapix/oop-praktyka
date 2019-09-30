@@ -1,0 +1,8 @@
+<suite name="Journey1">
+    <parameter name="url" value="https://news.ladbrokes.com"/>
+    <test name="PageOpenTest">
+        <classes>
+            <class name="PageOpenTest"/>
+        </classes>
+    </test>
+</suite>
